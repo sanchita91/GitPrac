@@ -11,8 +11,9 @@ public class Day1 {
 	@Test
 	public void Demo(String url) {
 		
-		System.out.println(url);
-		
+		System.out.println("TEST 1");
+		System.out.println("TEST 2");
+		System.out.println("TEST 3");
 	}
 	@BeforeClass
 	public void Beforeclass()
