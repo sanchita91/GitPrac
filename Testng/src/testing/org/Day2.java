@@ -11,6 +11,8 @@ public class Day2 {
 	@AfterTest
 	public void afterTest() {
 		System.out.println(" i will execute last");
+		System.out.println(" test 3");
+		System.out.println(" test 4");
 	}
 	@BeforeSuite
 	public void beforesuite() {
