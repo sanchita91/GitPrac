@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-14T10:52:05 EST" name="Default suite" finished-at="2021-11-14T10:52:05 EST" duration-ms="48">
+    <groups>
+    </groups>
+    <test started-at="2021-11-14T10:52:05 EST" name="Default test" finished-at="2021-11-14T10:52:05 EST" duration-ms="48">
+      <class name="bit.com.InterveiwQuestion">
+        <test-method signature="Fabonaci()[pri:0, instance:bit.com.InterveiwQuestion@671a5887]" started-at="2021-11-14T10:52:05 EST" name="Fabonaci" finished-at="2021-11-14T10:52:05 EST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fabonaci -->
+      </class> <!-- bit.com.InterveiwQuestion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
