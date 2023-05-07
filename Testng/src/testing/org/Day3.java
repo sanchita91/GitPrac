@@ -18,6 +18,10 @@ public class Day3 {
 	@BeforeMethod
 	public void BeforeMethod() {
 		System.out.println("i am before method");
+		System.out.println("test branch 5");
+		System.out.println("test branch 6");
+		System.out.println("test branch 7");
+		System.out.println("test branch 8");
 	}	
 	
 	@Test(enabled=false)
