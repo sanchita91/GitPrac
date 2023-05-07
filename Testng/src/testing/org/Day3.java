@@ -10,7 +10,10 @@ public class Day3 {
 	@Test
 	public void webloginCarLoan() {
 		System.out.println("webloginCarLoan");
-		
+		System.out.println("test branch 1");
+		System.out.println("test branch 2");
+		System.out.println("test branch 3");
+		System.out.println("test branch 4");
 	}
 	@BeforeMethod
 	public void BeforeMethod() {
